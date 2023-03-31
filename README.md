@@ -13,11 +13,7 @@
 
 
 <!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=da68ab&height=200&section=header&fontSize=90&text="" />
-</div>
-
-
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da68ab&width=100%&height=180&fontSize=35&text=Welcome!&fontColor=ffffff" /></a>
 
 # Personal
 
@@ -102,3 +98,6 @@ As hobbies, I have the following:
   <a href = "mailto:bmduarte2607@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=da68ab" /></a>
