@@ -46,7 +46,7 @@ If you want to see my repo data:
    <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Rosvenal&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> 
    &nbsp;
    &nbsp;
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosvenal&theme=omni&show_icons=true&layout=compact"/>
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosvenal&theme=omni&layout=compact"/>
 </div>
 
 </br>
