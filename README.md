@@ -43,8 +43,8 @@ If you want to see my repo data:
 
 <div align="center">
   <a href="https://github.com/Rosvenal">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rosvenal&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosvenal&theme=omni&show_icons=true&layout=compact"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rosvenal&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosvenal&theme=omni&show_icons=true&layout=compact"/>
 </div>
 
 </br>
