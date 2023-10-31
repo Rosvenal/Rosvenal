@@ -22,9 +22,9 @@
   <span style="font-weight:bold;">&nbsp Hi there :D </span>
 </p>
 
-My name is Bruno, but you can call me **Tushidotomo** (nickname).
+My name is Bruno :D .
 
-I am currently studying for app/web development, although I am not yet in an undergraduate program in the area :(  
+I am currently studying for app/web development, and starting a degree in computer science!  
 I like to help and learn about new projects, even if I don't have any experience with the technology, I'm willing to learn.
 
 </br>
@@ -50,7 +50,6 @@ If you want to see my repo data:
 
 
 # Learning
-
 <table style="table-layout: fixed; width: 100%">
   <tr>
       <td><img src="https://user-images.githubusercontent.com/128722136/228977184-5c25b694-ce85-40a6-ab5d-94a46ae22e52.png" width=350></td>
@@ -94,7 +93,7 @@ As hobbies, I have the following:
 </br>
 
 <div align="center"> 
-  <a href="https://instagram.com/bruno._.md26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/bruno._.md" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bmduarte2607@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bmduarte2607/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
