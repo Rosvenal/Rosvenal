@@ -22,7 +22,7 @@
   <span style="font-weight:bold;">&nbsp Hi there :D </span>
 </p>
 
-My name is Bruno :D .
+My name is Bruno.
 
 I am currently studying for app/web development, and starting a degree in computer science!  
 I like to help and learn about new projects, even if I don't have any experience with the technology, I'm willing to learn.
